@@ -1,0 +1,34 @@
+Functionality 1
+will need to examine directory and file attributes 
+	modified timestamp 
+	filesize
+produce a hash
+	see if the has has changed 
+[if necessary, pass database as parameter to]
+determine process hierarchy and dependencies 
+	files associated with a given process 
+examine behavior of processes and files 
+	determine which are associated with web processes
+	specific ports being accessed 
+	examining behavior of tcp loads and signals for various operations
+examining the compiler
+
+machine learning can assist. 
+
+Functionality 2 
+	assisting with coding projects 
+		locate main class 
+		locate package associations and dependencies 
+	collecting performance metrics and tracking progress 
+		word count 
+		line count 
+		char count 
+		number of classes 
+		number of files 
+		number of methods 
+		number of packages used 
+		frameworks used 
+		number of projects 
+		
+	
+
