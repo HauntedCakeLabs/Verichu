@@ -8,14 +8,20 @@ produce a hash
 determine process hierarchy and dependencies 
 	files associated with a given process 
 examine behavior of processes and files 
-	determine which are associated with web processes
-	specific ports being accessed 
-	examining behavior of tcp loads and signals for various operations
+	
+event logs, system logs
 examining the compiler
 
 machine learning can assist. 
 
 Functionality 2 
+	determine which are associated with web processes
+	specific ports being accessed 
+	examining behavior of tcp loads and signals for various operations
+	allow or block requests manually 
+	allow immediately blocking an IP address manually
+
+Functionality 3
 	assisting with coding projects 
 		locate main class 
 		locate package associations and dependencies 
